@@ -1,2 +1,14 @@
 # fun-zcw-hub
-HTML page archive and documentation
+
+页面托管与归档说明
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
